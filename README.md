@@ -25,4 +25,4 @@ Use the included Code::Blocks project, or compile from the command line using th
 ## License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © InsaneJetman
+- Copyright © 2019 InsaneJetman
