@@ -13,6 +13,13 @@ Now you have a nice crosshair for aiming.
 
 To close `crosshair`, switch to the application and press `Alt+F4`, or just right-click it on the task bar and choose "Close window".
 
+## Compiling
+
+Use the included Code::Blocks project, or compile from the command line using the MinGW compiler:
+
+    windres resource.rc resource.o
+    g++ -s -O2 -static -mwindows -o crosshair.exe crosshair.cpp resource.o
+
 ## License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
