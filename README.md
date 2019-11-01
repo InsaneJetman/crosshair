@@ -1,4 +1,6 @@
-# Crosshair ![Crosshair](https://raw.githubusercontent.com/InsaneJetman/crosshair/master/img/cross64.png)
+![Crosshair](https://raw.githubusercontent.com/InsaneJetman/crosshair/master/img/cross64.png)
+
+# Crosshair
 A crosshair for Windows
 
 This program creates a simple crosshair in that floats above other windows.
