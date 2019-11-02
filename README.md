@@ -22,9 +22,9 @@ Use the included Code::Blocks project, or compile from the command line using th
     windres resource.rc resource.o
     g++ -s -O2 -static -mwindows -o crosshair.exe crosshair.cpp resource.o
 
-## Binaries
+## Binary Releases
 
-Get the lastest binary [here](https://github.com/InsaneJetman/crosshair/releases/latest).
+Get the lastest binary release [here](https://github.com/InsaneJetman/crosshair/releases/latest).
 
 ## License
 
