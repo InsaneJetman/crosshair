@@ -5,7 +5,7 @@ A crosshair for Windows
 
 This program creates a simple crosshair in that floats above other windows.
 By default it will be placed in the middle of the screen, but it can be moved around as needed.
-It works for windowed and windowed full-screen mode applications only.
+It works over windowed and windowed full-screen mode applications only.
 
 ## Usage
 
