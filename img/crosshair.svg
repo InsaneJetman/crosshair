@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4in" height="4in" viewBox="0 0 64 64">
-<circle r="1.41421356" cy="32" cx="32" fill="#c00000"/>
-<path id="c" d="m29 32c0 0-21 2-23 2s-6 0-6-2 4-2 6-2 23 2 23 2z" fill="#00d000" />
-<use transform="rotate(90 32 32)" xlink:href="#c"/>
-<use transform="rotate(180 32 32)" xlink:href="#c"/>
-<use transform="rotate(270 32 32)" xlink:href="#c"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4in" height="4in" viewBox="-32 -32 64 64">
+<circle r="1.41421356" fill="#c00000"/>
+<path id="c" d="m-3 0c0 0-21 2-23 2s-6 0-6-2 4-2 6-2 23 2 23 2z" fill="#00d000"/>
+<use transform="rotate(90)" xlink:href="#c"/>
+<use transform="rotate(180)" xlink:href="#c"/>
+<use transform="rotate(270)" xlink:href="#c"/>
 </svg>
