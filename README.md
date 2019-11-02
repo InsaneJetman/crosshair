@@ -24,7 +24,7 @@ Use the included Code::Blocks project, or compile from the command line using th
 
 ## Binaries
 
-Get the lastest binaries [here](https://github.com/InsaneJetman/crosshair/releases/latest).
+Get the lastest binary [here](https://github.com/InsaneJetman/crosshair/releases/latest).
 
 ## License
 
